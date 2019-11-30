@@ -17,8 +17,8 @@
     
 - layout: top-middle
   name: "QPyTorch: A Low Precision Deep Learning Framework"
-  link: https://arxiv.org/abs/1910.04540 |
-        https://github.com/Tiiiger/QPyTorch
+  link: https://arxiv.org/abs/1910.04540
+  github: Tiiiger/QPyTorch
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
