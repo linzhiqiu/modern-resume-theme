@@ -16,7 +16,7 @@
     Description about the work on/with the project
     
 - layout: top-middle
-  name: QPyTorch: A Low Precision Deep Learning Framework
+  name: "QPyTorch: A Low Precision Deep Learning Framework"
   link: https://arxiv.org/abs/1910.04540
   github: https://github.com/Tiiiger/QPyTorch
   quote: >
