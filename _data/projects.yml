@@ -29,7 +29,6 @@
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    ABSTRACT |
 Phishing attacks are a major problem, as evidenced by the
 DNC hackings during the 2016 US presidential election, in
 which staff were tricked into sharing passwords by fake Google security emails, granting access to confidential information. Vulnerabilities such as these are duein part toinsufficient
