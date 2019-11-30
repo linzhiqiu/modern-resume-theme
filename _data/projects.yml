@@ -27,7 +27,6 @@
   name: "Engaging Anti-Phishing Training Through a Role-playing Cyber Defense Simulation game"
   link: https://www.cs.cornell.edu/~eland/papers/chi2019_whathack.pdf
   quote: >
-    Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
     Phishing attacks are a major problem, as evidenced by the
     DNC hackings during the 2016 US presidential election, in
