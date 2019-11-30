@@ -2,7 +2,31 @@
 - layout: top-middle
   name: Actively Learning in an Open World
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
+
+- layout: top-middle
+  name: Visual Chirality
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
+    
+- layout: top-middle
+  name: QPyTorch: A Low Precision Deep Learning Framework
+  link: https://arxiv.org/abs/1910.04540
+  github: https://github.com/Tiiiger/QPyTorch
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
+    
+- layout: top-middle
+  name: "Engaging Anti-Phishing Training Through a Role-playing Cyber Defense Simulation game"
+  link: https://www.cs.cornell.edu/~eland/papers/chi2019_whathack.pdf
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
