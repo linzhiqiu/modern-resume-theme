@@ -17,8 +17,7 @@
     
 - layout: top-middle
   name: "QPyTorch: A Low Precision Deep Learning Framework"
-  link: https://arxiv.org/abs/1910.04540
-  link: https://github.com/Tiiiger/QPyTorch
+  link: https://arxiv.org/abs/1910.04540 | https://github.com/Tiiiger/QPyTorch
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
@@ -30,4 +29,15 @@
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    ABSTRACT |
+Phishing attacks are a major problem, as evidenced by the
+DNC hackings during the 2016 US presidential election, in
+which staff were tricked into sharing passwords by fake Google security emails, granting access to confidential information. Vulnerabilities such as these are duein part toinsufficient
+and tiresome user training in cybersecurity. Ideally, we would
+have more engaging training methods that teach cybersecurity in an active and entertaining way. To address this need, we
+introduce the game What.Hack, which not only teaches phishing concepts but also simulates actual phishing attacks in a
+role-playing game to encourage the player to practice defending themselves. Our user study shows that our game design is
+more engaging and effective in improving performance than
+a standard form of training and a competing training game
+design (which does not simulate phishing attempts through
+role-playing).
