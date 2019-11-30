@@ -1,23 +1,24 @@
 # Project template
 - layout: top-middle
   name: Actively Learning in an Open World
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  link: # Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    Under review at CVPR2020
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
 
 - layout: top-middle
   name: Visual Chirality
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  link: # Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    Under review at CVPR2020
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
     
 - layout: top-middle
   name: "QPyTorch: A Low Precision Deep Learning Framework"
-  link: https://arxiv.org/abs/1910.04540 | https://github.com/Tiiiger/QPyTorch
+  link: https://arxiv.org/abs/1910.04540 |
+        https://github.com/Tiiiger/QPyTorch
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
