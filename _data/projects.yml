@@ -20,7 +20,7 @@
   link: https://arxiv.org/abs/1910.04540
   github: Tiiiger/QPyTorch
   quote: >
-    Short overview of the project (optional)
+    Published at NeurIPS2019 Workshop
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
     
@@ -28,7 +28,7 @@
   name: "Engaging Anti-Phishing Training Through a Role-playing Cyber Defense Simulation game"
   link: https://www.cs.cornell.edu/~eland/papers/chi2019_whathack.pdf
   quote: >
-  # Short overview of the project (optional)
+    Published at CHI 2019
   description: | # this will include new lines to allow paragraphs
     Phishing attacks are a major problem, as evidenced by the
     DNC hackings during the 2016 US presidential election, in
