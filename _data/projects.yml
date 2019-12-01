@@ -5,6 +5,7 @@
   quote: >
     Under review at CVPR2020
   description: | # this will include new lines to allow paragraphs
+    <mark>Computer Vision</mark>
     Description about the work on/with the project
 
 - layout: top-middle
